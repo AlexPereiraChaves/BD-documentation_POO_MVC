@@ -12,3 +12,6 @@ Exemplo do código:
 Em formato de diagrama:
 ![bd_diagrama](https://github.com/AlexPereiraChaves/BD-documentation_POO_MVC/blob/main/sql_diagram_example.png)
 
+
+Faixada do software( do site do projeto em questão):
+![site](https://github.com/AlexPereiraChaves/BD-documentation_POO_MVC/blob/main/foto_faixada.png)
