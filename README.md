@@ -20,4 +20,4 @@ Em esquema de diagrama:
 ## para ver toda a documentação:
 1-Clique em code--> download zip
 
-2-Extraia e abra.
+2-Extraia e abra. 
